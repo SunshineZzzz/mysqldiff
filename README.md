@@ -4,4 +4,3 @@ mysqldiff比较两个数据库中所有表，生成对应的"alter"语句，需�
 
 使用方法:
 	php mysqldiff.php --help
-
