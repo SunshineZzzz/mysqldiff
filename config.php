@@ -3,9 +3,9 @@ return $conf = (object)array(
 	'db' => (object)array(
 		'host' => 'localhost',
 		'user' => 'root',
-		'password' => 'pixel12345678',
+		'password' => 'xxxxxx',
 	),
-	'srcSchemaFile' => './8nx.sql',
-	'destSchemaFile' => './9nx.sql',
+	'srcSchemaFile' => './xxx1.sql',
+	'destSchemaFile' => './xxx2.sql',
 	'outputFile' => 'output.sql'
 );
